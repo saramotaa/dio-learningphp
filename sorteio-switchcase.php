@@ -8,7 +8,7 @@ switch($sorteio){
     echo " => Você ganhou 2 pontos";
     break;
   case 1:
-    echo " => Você ganhou 1 ponto";
+    echo " => Você perdeu 1 ponto";
     break;
   case 2:
     echo " => Você ganhou um bônus! Parabéns, você ganhou 3 pontos";
